@@ -1,10 +1,9 @@
 <p align="center">
-<img src="assets/logo.png" alt="gourl" title="gourl" />  
+<img src="assets/logo.png" alt="gourl" title="gourl" height="150" /> 
+<img src="assets/logo-font.png" alt="gourl" title="gourl" height="40" />
 </p>
 
 
 ---
 
-<img src="assets/logo-font.png" alt="gourl" title="gourl" />
-
-A lightweight template engine for Go
+<p align="center">A lightweight template engine for Go</p>
