@@ -9,4 +9,4 @@
 
 ---
 
-Tengo is a lightweight engine for GO
+Tengo is a lightweight template engine for GO
