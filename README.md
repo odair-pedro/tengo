@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo.png" alt="gourl" title="gourl" height="180" /> 
+<img src="assets/logo.png" alt="gourl" title="gourl" height="200" /> 
   
 </p>
 <p align="center">
